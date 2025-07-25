@@ -1,2 +1,7 @@
+# Original vulnerable dependencies for Snyk testing
 Flask==0.12  # CVE-2018-1000656
 requests==2.19.1  # CVE-2018-18074
+
+# Updated dependencies for weather app
+Flask>=2.0.0
+requests>=2.25.0
