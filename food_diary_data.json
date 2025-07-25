@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "food_name": "Oatmeal with berries",
+    "calories": 280,
+    "meal_type": "breakfast",
+    "notes": "Healthy start to the day",
+    "date": "2025-07-25",
+    "timestamp": "2025-07-25 18:02:22"
+  },
+  {
+    "id": 2,
+    "food_name": "Grilled Chicken Salad",
+    "calories": 450,
+    "meal_type": "lunch",
+    "notes": "",
+    "date": "2025-07-25",
+    "timestamp": "2025-07-25 18:02:32"
+  },
+  {
+    "id": 3,
+    "food_name": "Apple",
+    "calories": 95,
+    "meal_type": "snack",
+    "notes": "",
+    "date": "2025-07-25",
+    "timestamp": "2025-07-25 18:02:43"
+  },
+  {
+    "id": 4,
+    "food_name": "Salmon with vegetables",
+    "calories": 520,
+    "meal_type": "dinner",
+    "notes": "Rich in omega-3 fatty acids",
+    "date": "2025-07-25",
+    "timestamp": "2025-07-25 18:05:41"
+  }
+]
